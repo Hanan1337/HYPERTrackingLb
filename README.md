@@ -1,4 +1,4 @@
-# Hyperliquid Tracking Leaderboard Traders
+# Hyperliquid Tracking Leaderboard
 
 This repository contains a Python-based trading bot designed to monitor and report trading positions on the Hyperliquid platform. The bot fetches trading data from the Hyperliquid API, processes it, and sends notifications via Telegram. It is particularly useful for tracking the positions of specific user addresses and receiving real-time updates on new or closed positions.
 
@@ -81,4 +81,4 @@ For any issues or questions, please open an issue on the GitHub repository or co
 
 ---
 
-This README provides a comprehensive guide to setting up and using the Hyperliquid Trading Bot. For further customization or advanced usage, refer to the individual script documentation and comments within the code.
+This README provides a comprehensive guide to setting up and using the Hyperliquid Tracking Leaderboard. For further customization or advanced usage, refer to the individual script documentation and comments within the code.
